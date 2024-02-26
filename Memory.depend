@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708931540 source:c:\users\bistit\documents\codeblockscplus\memory\main.c
+	<stdio.h>
+	<stdlib.h>
+
